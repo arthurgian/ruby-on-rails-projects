@@ -1,11 +1,7 @@
 <h1>Seja bem-vindo!</h1>
 <p>Data: <%= brl_date(Date.today) %></p>
 
-<ul>
-  <li>
-    <%= link_to "Crypto Wallet", coins_path %>
-  </li>
-</ul>
+<%= render "menu" %>
 
 <p>O ambiente atual é de <strong> <%= rails_environment %></strong></p>
 <p>Este é um curso de <strong> <%= @curso %> </strong> </p>
