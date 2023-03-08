@@ -72,7 +72,7 @@ This section should list any major frameworks/libraries used in this repository.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up these projects locally.
+This is some instructions of how you may setting up these projects locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
