@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    @curso = "Rails"
+    @curso = "Ruby on Rails"
   end
 end
