@@ -72,12 +72,12 @@ This section should list any major frameworks/libraries used in this repository.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is some instructions of how you may setting up these projects locally.
+This is some instructions of how you may set up these projects locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* rbenv
+* Rbenv
   
   ```sh
     git clone git://github.com/sstephenson/rbenv.git .rbenv
@@ -90,7 +90,7 @@ To get a local copy up and running follow these simple example steps.
     exec $SHELL
   ```
 
-* ruby
+* Ruby
   
   ```sh
     rbenv install -v ["ruby version used in a certain project"]
@@ -100,12 +100,12 @@ To get a local copy up and running follow these simple example steps.
     ruby -v
   ```
 
-* bundler 
+* Bundler 
   ```sh
     gem install bundler
   ```
 
-* rails
+* Rails
   ```sh	
     install rails -v ["rails version used in a certain project"]
 
